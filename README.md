@@ -1,2 +1,0 @@
-# HCI
-Diseño de Interfaces
