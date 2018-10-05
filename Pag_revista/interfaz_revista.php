@@ -102,24 +102,7 @@
 					    </select>
     
  
-					</div>
-
-  					<!-- <div class="input-group" style="margin-top: 10px">
-  						<div class="input-group-prepend" style="margin-top: 10px">
-    						<label><img src="img/icon_revista.png" width="50" height="50" style="margin-left: 10px"></label>	
-  						</div>
-  						<select class="custom-select" id="magazine" style="margin-top: 12px" >
-							<option disabled selected="" ="">Selecciona una revista</option>
-					      	<?php 
-								while($valores = mysqli_fetch_array($queryRevista))
-								{
-									echo '<option value="'.$valores['id_revista'].'">'.$valores['nombre_revista'].'</option>';
-								}
-							?>
-					    </select>
-  					
-  					
-				</div>-->			  						
+					</div>			  						
   					 <div style="margin-left: 185px ; margin-top: 15px"><button align= "center" type="submit" class="btn btn-danger" style="margin-top: 10px" >Suscribirse</button></div>
   					 	
 					    
